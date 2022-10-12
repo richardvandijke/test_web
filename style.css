@@ -30,6 +30,7 @@ h1{
 }
 
 .but a{
+	margin-left: 10px;
     background-color: #546e7a;
     color: #fff;
     text-decoration: none;
